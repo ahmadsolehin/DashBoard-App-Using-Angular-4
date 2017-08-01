@@ -39,3 +39,6 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 
 
 ![nn](https://user-images.githubusercontent.com/12325386/28820885-defe85e8-76e5-11e7-806b-508fe7ab6909.JPG)
+
+![nn](https://user-images.githubusercontent.com/12325386/28820969-374bf97e-76e6-11e7-94ab-1b3cc257218b.JPG)
+
